@@ -1,0 +1,9 @@
+# Dependencia recomendada para manejo seguro de variables de entorno
+python-dotenv==1.0.0
+
+# Nota: El script puede funcionar sin python-dotenv ya que incluye
+# un método alternativo para leer el archivo .env manualmente.
+# Sin embargo, se recomienda instalar python-dotenv para mayor seguridad.
+
+# Para instalar las dependencias:
+# pip install -r requirements.txt
